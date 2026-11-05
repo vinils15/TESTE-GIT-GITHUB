@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 32px;
+    text-align: center;
+    margin: 30px auto;
+    background-color: black;
+    color: orangered;
+    width: 450px;
+    padding: 20px;
+}
+
+p{
+    width: 600px;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: orangered;
+    color: black;
+}
